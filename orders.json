@@ -28,12 +28,12 @@
     "orderDate": "22-12-2025",
     "deliveryDate": "31-12-2025",
     "pickup": {
-      "street": "Carrer de la Torre de Bac, 7",
-      "postal_code": "17458",
-      "city": "Fornells de la Selva, Girona",
+      "street": "Carrer del Migdia, 4",
+      "postal_code": "43830",
+      "city": "Torredembarra, Tarragona",
       "country": "España",
-      "lat": "41.963475219362486",
-      "lng": "2.7760795694376803"
+      "lat": "41.14646380937142",
+      "lng": "1.39757027781559746"
     },
     "delivery": {
       "street": "Av. de Gregorio Molina, 23",
