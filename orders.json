@@ -4,7 +4,7 @@
     "statusClass": "pendiente",
     "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Alemania",
     "receiver": "Christopher Wayne, Avenida de Gregorio Molina 23, 46800 Xàtiva, Valencia, España",
-    "price": "14.900 € - Pago incompleto",
+    "price": "14.900 €",
     "description": "Fabricante: Harley-Davidson<br>Modelo: CVO Road King<br>Número de bastidor: 5HD1PG8CXEB960260<br>Primera matriculación: 05/2014<br>Kilometraje según el propietario anterior: 43.004 km<br>Potencia: 74 kW (101 CV)<br>Cilindrada: 1.801 cm³<br>Color: negro<br><br>La motocicleta está completamente funcional, sin caídas ni accidentes.<br>Se incluyen todos los papeles y llaves.",
     "address": "Christopher Wayne<br>Avenida de Gregorio Molina 23<br>46800 Xàtiva, Valencia<br>España<br>Teléfono: +34 637044184",
     "documents": [
@@ -28,12 +28,12 @@
     "orderDate": "22-12-2025",
     "deliveryDate": "31-12-2025",
     "pickup": {
-      "street": "Aire de Montélimar Est, A7 Autoroute,  ",
-      "postal_code": "26200",
-      "city": "Montélimar",
-      "country": "Francia",
-      "lat": "44.45734505451035",
-      "lng": "4.725005656180899"
+      "street": "Carrer de la Torre de Bac, 7",
+      "postal_code": "17458",
+      "city": "Fornells de la Selva, Girona",
+      "country": "España",
+      "lat": "41.963475219362486",
+      "lng": "2.7760795694376803"
     },
     "delivery": {
       "street": "Av. de Gregorio Molina, 23",
